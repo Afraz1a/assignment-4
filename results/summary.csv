@@ -1,0 +1,3 @@
+Model,Dataset,Task,Main Metric,Result
+ResNet-50,Oxford Flowers-102 subset,Classification,Accuracy,1.0000
+U-Net,Oxford-IIIT Pet subset,Segmentation,Dice / IoU,0.9303 / 0.8752

@@ -1,0 +1,10 @@
+# datasets and trained weights must not be uploaded (GitHub 100 MB file limit)
+flowers_subset/
+pets_subset/
+raw/
+checkpoints/
+*.pth
+*.tgz
+*.tar.gz
+__pycache__/
+.ipynb_checkpoints/
